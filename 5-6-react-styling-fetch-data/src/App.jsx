@@ -177,7 +177,6 @@ Hint:
 END OF LAB INSTRUCTIONS
 ===================================================================
 */
-
 import { useEffect, useState } from "react";
 import { Container, Spinner, Alert } from "react-bootstrap";
 import SearchBar from "./components/SearchBar";
